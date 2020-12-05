@@ -1,0 +1,30 @@
+﻿<Window x:Class="Muc6._2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Muc6._2"
+        mc:Ignorable="d"
+      Title="Minh Họa Grid" Height="190" Width="500">
+    <Grid Name="grdDemo" ShowGridLines="True">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="100"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50" />
+            <RowDefinition Height="25" />
+            <RowDefinition Height="25"/>
+            <RowDefinition Height="30" />
+        </Grid.RowDefinitions>
+        <Label Grid.ColumnSpan="2" Grid.Row="0" Background="Blue" Foreground="White"
+HorizontalContentAlignment="Center"
+FontSize="25">Minh Họa Grid Layout</Label>
+        <Label Grid.Column="0" Grid.Row="1">User Name:</Label>
+        <TextBox Grid.Column="1" Grid.Row="1" Background="Yellow"></TextBox>
+        <Label Grid.Column="0" Grid.Row="2">Password:</Label>
+        <PasswordBox Grid.Column="1" Grid.Row="2" Background="Yellow"></PasswordBox>
+        <Button Grid.Column="1" Grid.Row="3" Width="100" HorizontalAlignment="Left">
+            Đăng Nhập</Button>
+    </Grid>
+</Window>

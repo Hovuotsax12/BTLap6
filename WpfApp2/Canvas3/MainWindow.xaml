@@ -1,0 +1,35 @@
+﻿<Window x:Class="Canvas3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Canvas3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Canvas>
+        <Ellipse Panel.ZIndex="1" Fill="Gainsboro"
+Canvas.Left="25" Canvas.Top="25"
+Width="297" Height="259" />
+        <Ellipse Panel.ZIndex="3" Fill="LightBlue"
+Canvas.Left="25" Canvas.Top="34"
+Width="72" Height="57" RenderTransformOrigin="0.5,0.5" >
+            <Ellipse.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="-2.358"/>
+                    <RotateTransform/>
+                    <TranslateTransform Y="1.483"/>
+                </TransformGroup>
+            </Ellipse.RenderTransform>
+        </Ellipse>
+
+        <Rectangle Panel.ZIndex="2" Fill="LightCoral"
+Canvas.Left="50" Canvas.Top="50"
+Width="75" Height="97" />
+
+        <Rectangle Panel.ZIndex="4" Fill="Yellow"
+Canvas.Left="86" Canvas.Top="105"
+Width="82" Height="72" />
+
+    </Canvas>
+</Window>

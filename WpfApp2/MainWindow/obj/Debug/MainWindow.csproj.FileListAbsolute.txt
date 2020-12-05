@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\WpfApp2\MainWindow\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\source\repos\WpfApp2\MainWindow\obj\Debug\Page1.g.cs
+C:\Users\Admin\source\repos\WpfApp2\MainWindow\obj\Debug\Page2.g.cs
+C:\Users\Admin\source\repos\WpfApp2\MainWindow\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\WpfApp2\MainWindow\obj\Debug\MainWindow_MarkupCompile.cache
+C:\Users\Admin\source\repos\WpfApp2\MainWindow\obj\Debug\MainWindow_MarkupCompile.lref

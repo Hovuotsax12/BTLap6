@@ -1,0 +1,23 @@
+﻿<Window x:Class="WrapPanel.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WrapPanel"
+        mc:Ignorable="d"
+      Title="WrapPanel Ví dụ" Height="262" Width="282">
+    <WrapPanel Margin="0,0,3.2,-0.2">
+        <Button>Tiên</Button>
+        <Button>Học</Button>
+        <Button FontSize="35">Lễ</Button>
+        <Button>Hậu</Button>
+        <Button>Học</Button>
+        <Button>Văn</Button>
+        <Button>Nhân</Button>
+        <Button>Nghĩa</Button>
+        <Button FontSize="35">Lễ</Button>
+        <Button>Trí</Button>
+        <Button>Tín</Button>
+        <Button FontSize="45">Đức</Button>
+    </WrapPanel>
+</Window>

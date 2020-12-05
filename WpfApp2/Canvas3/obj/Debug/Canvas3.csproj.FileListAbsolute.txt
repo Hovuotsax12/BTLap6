@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\WpfApp2\Canvas3\bin\Debug\Canvas3.exe.config
+C:\Users\Admin\source\repos\WpfApp2\Canvas3\bin\Debug\Canvas3.exe
+C:\Users\Admin\source\repos\WpfApp2\Canvas3\bin\Debug\Canvas3.pdb
+C:\Users\Admin\source\repos\WpfApp2\Canvas3\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\source\repos\WpfApp2\Canvas3\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\WpfApp2\Canvas3\obj\Debug\Canvas3_MarkupCompile.cache
+C:\Users\Admin\source\repos\WpfApp2\Canvas3\obj\Debug\Canvas3_MarkupCompile.lref
+C:\Users\Admin\source\repos\WpfApp2\Canvas3\obj\Debug\MainWindow.baml
+C:\Users\Admin\source\repos\WpfApp2\Canvas3\obj\Debug\Canvas3.g.resources
+C:\Users\Admin\source\repos\WpfApp2\Canvas3\obj\Debug\Canvas3.Properties.Resources.resources
+C:\Users\Admin\source\repos\WpfApp2\Canvas3\obj\Debug\Canvas3.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\WpfApp2\Canvas3\obj\Debug\Canvas3.exe
+C:\Users\Admin\source\repos\WpfApp2\Canvas3\obj\Debug\Canvas3.pdb

@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\WpfApp2\StackPanel3\bin\Debug\StackPanel3.exe.config
+C:\Users\Admin\source\repos\WpfApp2\StackPanel3\bin\Debug\StackPanel3.exe
+C:\Users\Admin\source\repos\WpfApp2\StackPanel3\bin\Debug\StackPanel3.pdb
+C:\Users\Admin\source\repos\WpfApp2\StackPanel3\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\source\repos\WpfApp2\StackPanel3\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\WpfApp2\StackPanel3\obj\Debug\StackPanel3_MarkupCompile.cache
+C:\Users\Admin\source\repos\WpfApp2\StackPanel3\obj\Debug\StackPanel3_MarkupCompile.lref
+C:\Users\Admin\source\repos\WpfApp2\StackPanel3\obj\Debug\MainWindow.baml
+C:\Users\Admin\source\repos\WpfApp2\StackPanel3\obj\Debug\StackPanel3.g.resources
+C:\Users\Admin\source\repos\WpfApp2\StackPanel3\obj\Debug\StackPanel3.Properties.Resources.resources
+C:\Users\Admin\source\repos\WpfApp2\StackPanel3\obj\Debug\StackPanel3.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\WpfApp2\StackPanel3\obj\Debug\StackPanel3.exe
+C:\Users\Admin\source\repos\WpfApp2\StackPanel3\obj\Debug\StackPanel3.pdb
